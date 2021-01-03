@@ -1,10 +1,10 @@
 
-    # yoyo
+    # Good README Generator
   
-    ![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
+    ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
     ### Description
-    yoyoyo
+    This application is a CLI (Command Line Interface) that can be run by typing node index.js into your console.  The app functions by prompting the user to answer questions which it will take and use to write to a README.md file
 
     ### Table of Contents
     - [Description](#description)
@@ -16,25 +16,25 @@
     - [Questions](#questions)
 
     ### Installation
-    yoyoy
+    Have the files in the repo on your local machine and have a CLI to run the index.js file through node
 
     ### Usage
-    yoyoyo
+    To use this app, simply answer the questions when prompted.
 
     ### License
-    ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+    ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
     <br />
-    This application is covered by the Apache license. 
+    This application is covered by the MIT license. 
 
     ### Contributing
-    yoyo
+    Ryan Petrecca
 
     ### Tests
-    nope
+    No
 
     ### Questions
 
-    Find me on GitHub: [yoyo](https://github.com/yoyo)<br />
+    Find me on GitHub: [ryryp97](https://github.com/ryryp97)<br />
 
-    Email me with any questions: yooooooooo<br /><br />
+    Email me with any questions: ryanpetrecca@gmail.com<br /><br />
   
