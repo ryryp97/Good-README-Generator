@@ -61,6 +61,10 @@ const promptUser = function () {
 
     ]).then((data) => {
         console.log(generateMarkdown(data));
+        fs.writeFile('./dist/README.md', generateMarkdown(data), function (err) {
+            if (err) throw err;
+            console.log('Saved!');
+          });
     });
 };
 
