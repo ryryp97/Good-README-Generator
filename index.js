@@ -60,7 +60,7 @@ const promptUser = function () {
         }
 
     ]).then((data) => {
-        // generateMarkdown(data);
+        console.log(generateMarkdown(data));
     });
 };
 
